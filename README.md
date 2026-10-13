@@ -119,9 +119,5 @@ After doing all the initial setup (using the script or the long way)
    http://localhost:5173/
    ```
 
-6. Below is the demo of the application that showcase its feature
-## Demo
-
-A live or recorded demonstration showcasing the Blockchain Healthcare System can be seen here https://www.youtube.com/watch?v=vn1G-LYHnrw
 
 ---
